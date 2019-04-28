@@ -1,38 +1,33 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: m-walters/m-walters.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Michael Walters
+title: MSc. Physics, 6'5" and growing
+email: michaelwalters3000@gmail.com
+phone: +1 519-949-4428
+website: m-walters.github.io
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+github_username: m-walters
+instagram_username: hotdoglipstick
+linkedin_username: michaelwalters3000
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_title: My Story, Mark
+about_profile_image: "images/smilechameleon.jpg"
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  
+  "Everybody betrayed me. I'm fed up with this world" - Johnny
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+#
+# You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#  - Lists
+# - Tables
+#- Links
+#- Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

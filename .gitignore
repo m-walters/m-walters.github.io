@@ -6,3 +6,5 @@ Gemfile.lock
 *.code-workspace
 vendor
 .bundle
+*.swp
+*.swo
