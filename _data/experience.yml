@@ -1,9 +1,29 @@
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+- company: CSEC
+  image: "assets/images/CSEC_logo_canada.svg"
+  job_title: Software Developer
+  dates: Sep, 2017 - Jan, 2018
   quote: >
-   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    I programmed a hybrid neural net for anomaly detection. The language was primarily Python,
+    using TensorFlow with a Postgres database.
+
+- company: McMaster Univserity
+  image: "assets/images/mcmaster-plain-crest.png"
+  job_title: Astrophysics Researcher
+  dates: May - Sep, 2016
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    I simulated a galactic disk portion using parallel SPH tree-code Gasoline to investigate behavioural dependencies on certain factors, primarily resolution.
+    I prepared and modified initial conditions for these runs, and wrote Python scripts for the subsequent analysis.
+    The HPC cluster SHARCNET was used for these runs.
+
+- company: TRIUMF
+  image: "assets/images/triumf-logo.png"
+  job_title: Hyper-Kamiokande R&D
+  dates: Jan - Sep, 2015
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    As part of the T2K Canada group, I wokred on the successor to the 2015 Nobel Prize-winning neutrino oscillation project Super-Kamiokande.
+    My primary work was to determine the timing resolution of three different flash analog-to-digital signal converter modules.
+    This included acquiring and processing signal data, for which I used the CERN analysis toolkit ROOT.
