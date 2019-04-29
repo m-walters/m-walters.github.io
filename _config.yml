@@ -19,8 +19,8 @@ about_title: About
 about_profile_image: "/assets/images/selfie-square-zoom.JPG"
 about_content: | # this will include new lines to allow paragraphs
   
-  A 90's baby from modest Stratford, Ontario.
-  Always loved math, science, music, with more recent affairs in computer science, macine learning, and AI at large.  
+  A 90's child from quaint Stratford, Ontario.
+  Always loved math, science, and music, with more recent affairs of interest in computer science, macine learning, and AI at large.  
   <br/>
   Academically, I am in the final leg of a MSc. Physics at the University of Waterloo, where 
   my research lies at the intersection of machine learning
@@ -28,9 +28,12 @@ about_content: | # this will include new lines to allow paragraphs
   <br/>
   In work placements, I joined [Hyper-K's](http://www.hyperk.org/) neutrino detecting efforts at 
   Canada's leading accelerator lab, [TRIUMF](https://www.triumf.ca), researched astrophysics 
-  at McMaster University, and developed software at the Canada's Communications Security Establishment.  
+  at McMaster University, and developed software at Canada's Communications Security Establishment.  
   <br/>
-  Non-academically, I've dabbled in claywork, woodworking, music writing, and killing any plant I try to grow.  
+  Outside academia, I've dabbled in polymer clay and wood working, music writing, 
+  masochistically running Linux, and killing any plant I try to grow.  
+  <br/> 
+  My strongest software skills are: __Python, C++, Bash, Git__ (mostly private repos)  
   <br/>
   I also make a *mean* frozen pizza.
 
