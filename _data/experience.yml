@@ -2,7 +2,7 @@
 - company: CSEC
   image: "assets/images/CSEC_logo_canada.svg"
   job_title: Software Developer
-  dates: Sep, 2017 - Jan, 2018
+  dates: Sep, 2016 - Jan, 2017
   quote: >
   description: | # this will include new lines to allow paragraphs
     I programmed a hybrid neural net for anomaly detection. The language was primarily Python,

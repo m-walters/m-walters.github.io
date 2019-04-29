@@ -19,7 +19,7 @@ about_title: About
 about_profile_image: "/assets/images/selfie-square-zoom.JPG"
 about_content: | # this will include new lines to allow paragraphs
   
-  A 90's baby from modest Stratford, Ontario.  
+  A 90's baby from modest Stratford, Ontario.
   Always loved math, science, music, with more recent affairs in computer science, macine learning, and AI at large.  
   <br/>
   Academically, I am in the final leg of a MSc. Physics at the University of Waterloo, where 
@@ -31,6 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
   at McMaster University, and developed software at the Canada's Communications Security Establishment.  
   <br/>
   Non-academically, I've dabbled in claywork, woodworking, music writing, and killing any plant I try to grow.  
+  <br/>
   I also make a *mean* frozen pizza.
 
 
@@ -44,9 +45,13 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Don't forget your ML certificate
+  - M. Walters, Q. Wei, J. Z. Y. Chen. _Machine learning topological defects of confined liquid crystals simulated
+  in two dimensions._ (Manuscript in review for Phys. Rev. E. [Read the draft](/assets/walters.pdf))  
+  - [Editor's suggestion] M. B. Bennett _et al._ (24 authors). _Isospin mixing reveals $$^{30}P(p,\gamma)^{31}S$$ resonance influencing nova nucleosynthesis._
+  Phys. Rev. Lett. 116, 102502, (2016)
+  
 
 # Footer
 footer_show_references: true
@@ -54,6 +59,8 @@ footer_show_references: true
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+markdown: kramdown
 
 sass:
   sass_dir: _sass
