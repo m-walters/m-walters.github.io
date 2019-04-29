@@ -4,7 +4,7 @@ repository: m-walters/m-walters.github.io
 
 # Personal info
 name: Michael Walters
-title: MSc. Physics, 6'5" and growing
+title: MSc. Physics (in study), BSc. Hons. Physics
 email: michaelwalters3000@gmail.com
 phone: +1 519-949-4428
 website: m-walters.github.io
@@ -15,19 +15,24 @@ instagram_username: hotdoglipstick
 linkedin_username: michaelwalters3000
 
 # About Section
-about_title: My Story, Mark
-about_profile_image: "images/smilechameleon.jpg"
+about_title: About
+about_profile_image: "/assets/images/selfie-square-zoom.JPG"
 about_content: | # this will include new lines to allow paragraphs
   
-  "Everybody betrayed me. I'm fed up with this world" - Johnny
+  A 90's baby from modest Stratford, Ontario.  
+  Always loved math, science, music, with more recent affairs in computer science, macine learning, and AI at large.  
+  <br/>
+  Academically, I am in the final leg of a MSc. Physics at the University of Waterloo, where 
+  my research lies at the intersection of machine learning
+  and condensed matter. More details can be found below.  
+  <br/>
+  In work placements, I joined [Hyper-K's](http://www.hyperk.org/) neutrino detecting efforts at 
+  Canada's leading accelerator lab, [TRIUMF](https://www.triumf.ca), researched astrophysics 
+  at McMaster University, and developed software at the Canada's Communications Security Establishment.  
+  <br/>
+  Non-academically, I've dabbled in claywork, woodworking, music writing, and killing any plant I try to grow.  
+  I also make a *mean* frozen pizza.
 
-#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-#
-# You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-#  - Lists
-# - Tables
-#- Links
-#- Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
