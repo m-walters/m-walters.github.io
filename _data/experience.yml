@@ -8,7 +8,7 @@
     At the Communications Security Establishment of Canada I programmed a hybrid neural net for anomaly detection. The language was primarily Python,
     using TensorFlow with a Postgres database.
 
-- company: McMaster Univserity
+- company: McMaster University
   image: "assets/images/mcmaster-plain-crest.png"
   job_title: Astrophysics Researcher
   dates: May - Sep, 2016
