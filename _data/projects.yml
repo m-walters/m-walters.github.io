@@ -1,8 +1,6 @@
 # Project template
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+- name: Learning and locating defects with PCA
+  link: /assets/bigbox_vid.mp4
+  #quote: >
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Using Principal Component Analysis on small samples from Monte Carlo simulated liquid crystals, topological defects could be learned and then pinpointed on a larger domain. Follow the link for a video showing how the algorithm highlights defect regions, and identifies them by type (colour).

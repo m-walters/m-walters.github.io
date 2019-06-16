@@ -39,7 +39,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Misc. #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
@@ -50,8 +50,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - M. Walters, Q. Wei, J. Z. Y. Chen. _Machine learning topological defects of confined liquid crystals simulated
-  in two dimensions._ (Manuscript in review for Phys. Rev. E. [Read the draft](/assets/walters.pdf))  
+  - M. Walters, Q. Wei, J. Z. Y. Chen. _Machine learning topological defects of confined liquid crystals
+  in two dimensions._ ([View on Phys. Rev. E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062701?fbclid=IwAR0aaXGnTeYb_p7BAYYYKBftRkI0hv_m88w3ieR3-CnvLsaGrr0GnfhiAbo) / [Read PDF](/assets/walters_2019_final.pdf))  
   - [Editor's suggestion] M. B. Bennett _et al._ (24 authors). _Isospin mixing reveals $$^{30}P(p,\gamma)^{31}S$$ resonance influencing nova nucleosynthesis._
   Phys. Rev. Lett. 116, 102502, (2016)
   
