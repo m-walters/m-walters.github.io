@@ -4,8 +4,8 @@ repository: m-walters/m-walters.github.io
 
 # Personal info
 name: Michael Walters
-title: MSc. Physics (in study), BSc. Hons. Physics
-email: mswalter@uwaterloo.ca
+title: MSc. Physics
+email: michaelwalters3000@gmail.com
 phone: +1 519-949-4428
 website: m-walters.github.io
 
@@ -19,11 +19,11 @@ about_title: About
 about_profile_image: "/assets/images/selfie-square-zoom.JPG"
 about_content: | # this will include new lines to allow paragraphs
   
-  A 90's child from Stratford, Ontario.
-  Always loved math, science, and music, with more recent affairs of interest in computer science, machine learning, and AI at large.  
+  A 90's kid from Stratford, Ontario.
+  Always loved math, science, and music, with more recent affairs of interest in computer science, machine learning, and AI at large. I'm also interested in channeling my efforts towards a renewable energy future.  
   <br/>
-  Academically, I am in the final leg of a MSc. Physics at the University of Waterloo, where 
-  my research lies at the intersection of machine learning
+  Academically, I recently finished my MSc. Physics at the University of Waterloo, where 
+  my research sat at the intersection of machine learning
   and condensed matter. More details can be found below.  
   <br/>
   In work placements, I joined [Hyper-K's](http://www.hyperk.org/) neutrino detecting efforts at 
@@ -50,6 +50,8 @@ projects_title: Misc. #(Use this to override about projects section title)
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+  - My MSc. thesis: _Machine learning topological defects of liquid crystals
+  in two dimensions._ Available online on [UWSpace](http://hdl.handle.net/10012/14949).
   - M. Walters, Q. Wei, J. Z. Y. Chen. _Machine learning topological defects of confined liquid crystals
   in two dimensions._ ([View on Phys. Rev. E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062701?fbclid=IwAR0aaXGnTeYb_p7BAYYYKBftRkI0hv_m88w3ieR3-CnvLsaGrr0GnfhiAbo) / [Read PDF](/assets/walters_2019_final.pdf))  
   - [Editor's suggestion] M. B. Bennett _et al._ (24 authors). _Isospin mixing reveals $$^{30}P(p,\gamma)^{31}S$$ resonance influencing nova nucleosynthesis._

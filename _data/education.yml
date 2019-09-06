@@ -1,7 +1,7 @@
 # Education Template
 - name: University of Waterloo
   image: "/assets/images/waterloo-plain-crest.png"
-  dates: 2017 - present
+  dates: 2017 - 2019
   qualification: MSc. Physics
   quote: > 
   description: | # this will include new lines to allow paragraphs
