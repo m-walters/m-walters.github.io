@@ -45,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - Traffic prediction Graph Neural Net. In progress on github. View the working [toy model](https://github.com/m-walters/graphnn_toy).
+  - Traffic prediction Graph Neural Net. In progress on github. View the completed toy model at [https://github.com/m-walters/graphnn_toy](https://github.com/m-walters/graphnn_toy).
   - My MSc. thesis: _Machine learning topological defects of liquid crystals
   in two dimensions._ Available online at [http://hdl.handle.net/10012/14949](http://hdl.handle.net/10012/14949).
   - M. Walters, Q. Wei, J. Z. Y. Chen. _Machine learning topological defects of confined liquid crystals
