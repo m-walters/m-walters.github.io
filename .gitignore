@@ -8,3 +8,4 @@ vendor
 .bundle
 *.swp
 *.swo
+_config_2.yml

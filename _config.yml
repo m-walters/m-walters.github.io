@@ -8,38 +8,33 @@ title: MSc. Physics
 email: michaelwalters3000@gmail.com
 phone: +1 519-949-4428
 website: m-walters.github.io
+github: m-walters
 
 # Social links
-github_username: m-walters
-instagram_username: hotdoglipstick
-linkedin_username: michaelwalters3000
+#github_username: m-walters
+#instagram_username: hotdoglipstick
+#linkedin_username: michaelwalters3000
 
 # About Section
-about_title: About
+about_title: " "
 about_profile_image: "/assets/images/selfie-square-zoom.JPG"
 about_content: | # this will include new lines to allow paragraphs
   
-  A 90's kid from Stratford, Ontario.
-  Always loved math, science, and music, with more recent affairs of interest in computer science, machine learning, and AI at large. I'm also interested in channeling my efforts towards a renewable energy future.  
-  <br/>
   Academically, I recently finished my MSc. Physics at the University of Waterloo, where 
   my research sat at the intersection of machine learning
-  and condensed matter. More details can be found below.  
+  and condensed matter. More details are given below.  
   <br/>
-  In work placements, I joined [Hyper-K's](http://www.hyperk.org/) neutrino detecting efforts at 
-  Canada's leading accelerator lab, [TRIUMF](https://www.triumf.ca), researched astrophysics 
+  In work placements, I joined Hyper-K's neutrino detecting efforts at 
+  Canada's leading accelerator lab, TRIUMF, researched astrophysics 
   at McMaster University, and developed software at Canada's Communications Security Establishment.  
-  <br/>
-  Outside academia, I've dabbled in polymer clay and wood working, music writing, 
-  and masochistically running Linux on my PC.  
   <br/> 
   My strongest software skills are: __Python, C++, Bash, MATLAB, $$\LaTeX$$, Git__ (mostly private repos)  
+  I also have experience in: __Maple, SQL, Postgres, Geant4, ROOT__  
   <br/>
-  I also make a *mean* frozen pizza.
-
+  This CV is also hosted online at the website listed above and contains relevant hyperlinks.
 
 # Projects Section
-projects_title: Misc. #(Use this to override about projects section title)
+# projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
@@ -50,8 +45,9 @@ projects_title: Misc. #(Use this to override about projects section title)
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+  - Traffic prediction Graph Neural Net. In progress on github. View the working [toy model](https://github.com/m-walters/graphnn_toy).
   - My MSc. thesis: _Machine learning topological defects of liquid crystals
-  in two dimensions._ Available online on [UWSpace](http://hdl.handle.net/10012/14949).
+  in two dimensions._ Available online at [http://hdl.handle.net/10012/14949](http://hdl.handle.net/10012/14949).
   - M. Walters, Q. Wei, J. Z. Y. Chen. _Machine learning topological defects of confined liquid crystals
   in two dimensions._ ([View on Phys. Rev. E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062701?fbclid=IwAR0aaXGnTeYb_p7BAYYYKBftRkI0hv_m88w3ieR3-CnvLsaGrr0GnfhiAbo) / [Read PDF](/assets/walters_2019_final.pdf))  
   - [Editor's suggestion] M. B. Bennett _et al._ (24 authors). _Isospin mixing reveals $$^{30}P(p,\gamma)^{31}S$$ resonance influencing nova nucleosynthesis._
