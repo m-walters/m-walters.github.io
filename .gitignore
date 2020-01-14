@@ -8,4 +8,5 @@ vendor
 .bundle
 *.swp
 *.swo
-_config_2.yml
+_config_pdfgen.yml
+_config_default.yml
