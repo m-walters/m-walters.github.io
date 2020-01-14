@@ -14,8 +14,8 @@
   dates: May - Sep, 2016
   quote: >
   description: | # this will include new lines to allow paragraphs
-    I simulated a galactic disk portion using parallel SPH tree-code Gasoline to investigate behavioural dependencies on certain factors, primarily resolution.
-    I prepared and modified initial conditions for these runs, and wrote Python scripts for the subsequent analysis.
+    I simulated galactic disk portions using parallel SPH tree-code Gasoline to investigate behavioural dependencies on certain factors, primarily resolution.
+    I prepared various initial conditions for these runs, with subsequent analysis in Python.
     The HPC cluster SHARCNET was used for these runs.
 
 - company: TRIUMF
