@@ -8,6 +8,7 @@ title: MSc. Physics
 email: michaelwalters3000@gmail.com
 phone: +1 519-949-4428
 website: m-walters.github.io
+location: Toronto, ON, Canada
 
 # Social links
 github_username: m-walters
@@ -19,14 +20,14 @@ about_title: About
 about_profile_image: "/assets/images/selfie-square-zoom.JPG"
 about_content: | # this will include new lines to allow paragraphs
   
-  A 90's kid from Stratford, Ontario.
-  Always loved math, science, and music, with more recent affairs of interest in computer science, machine learning, and AI at large. I'm also interested in channeling my efforts towards a renewable energy future.  
+  Always loved math, science, and music, with more recent affairs of interest in computer science, machine learning, and AI at large. I am also interested in channeling my efforts towards a renewable energy future.  
   <br/>
   Academically, I recently finished my MSc. Physics at the University of Waterloo, where 
   my research sat at the intersection of machine learning
   and condensed matter. More details can be found below.  
   <br/>
-  In work placements, I joined the [Hyper-K](http://www.hyperk.org/) 
+  Currently, I am a backend developer at [QED](http://qed.andrewlee.co/), where we provide a suite of administrative tools and performance metrics for businesses.
+  In other work placements, I joined the [Hyper-K](http://www.hyperk.org/) 
   neutrino detecting efforts&mdash;the successor to the 2015 Nobel Prize winner 
   Super-K&mdash;at Canada's premier accelerator lab, 
   [TRIUMF](https://www.triumf.ca), researched astrophysics 
@@ -35,9 +36,9 @@ about_content: | # this will include new lines to allow paragraphs
   Outside academia, I've dabbled in polymer clay and wood working, music writing, 
   and masochistically running Linux on my PC.  
   <br/> 
-  My strongest software skills are: __Python, C++, Bash, Tensorflow, MATLAB, $$\LaTeX$$, Git__ (mostly private repos)  
+  My strongest software skills are: __Python, Django, Tensorflow, Bash, $$\LaTeX$$, Git, C++, MATLAB, R__
   Frequently used Python libraries: __numpy, pandas, matplotlib, scikit-learn__  
-  I also have experience in: __Maple, SQL, Postgres, Geant4, ROOT__   
+  I also have experience in: __SQL, Postgres, Geant4, ROOT__   
 
 
 # Projects Section

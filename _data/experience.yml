@@ -1,4 +1,12 @@
 # Experience template
+- company: QED
+  image: "assets/images/QED_logo.png"
+  job_title: Backend Developer
+  dates: Feb. 2020 - Present
+  quote: >
+  description: |
+    With a small team of dedicated developers, I have been building the QED backend architecture in a Django REST API framework. This includes interpreting and codifying design requests from the design team in a smart, robust, and scalable way. I have also helped provide valuable design ideas for the company, including calculations for employee predictability metrics.
+
 - company: CSEC
   image: "assets/images/CSEC_logo_canada.svg"
   job_title: Software Developer
