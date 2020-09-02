@@ -8,7 +8,6 @@ title: MSc. Physics
 email: michaelwalters3000@gmail.com
 phone: +1 519-949-4428
 website: m-walters.github.io
-location: Toronto, ON, Canada
 
 # Social links
 github_username: m-walters
@@ -39,6 +38,8 @@ about_content: | # this will include new lines to allow paragraphs
   My strongest software skills are: __Python, Django, Tensorflow, Bash, $$\LaTeX$$, Git, C++, MATLAB, R__
   Frequently used Python libraries: __numpy, pandas, matplotlib, scikit-learn__  
   I also have experience in: __SQL, Postgres, Geant4, ROOT__   
+  <br/>
+  Location: __Toronto, ON, Canada__
 
 
 # Projects Section
