@@ -19,7 +19,7 @@ about_title: About
 about_profile_image: "/assets/images/wineguy_square.jpg"
 about_content: | # this will include new lines to allow paragraphs
   
-  Always loved math, science, and music, with more recent affairs of interest in computer science, machine learning, and AI at large. I am also interested in channeling my efforts towards a renewable energy future.  
+  Currently based in Toronto, CA. Always loved math, science, and music, with more recent affairs of interest in computer science, machine learning, and AI at large. I am also interested in channeling my efforts towards a renewable energy future.  
   <br/>
   Academically, I recently finished my MSc. Physics at the University of Waterloo, where 
   my research sat at the intersection of machine learning
@@ -38,8 +38,6 @@ about_content: | # this will include new lines to allow paragraphs
   My strongest software skills are: __Python, Django, Tensorflow, Bash, $$\LaTeX$$, Git, C++, MATLAB, R__
   Frequently used Python libraries: __numpy, pandas, matplotlib, scikit-learn__  
   I also have experience in: __SQL, Postgres, Geant4, ROOT__   
-  <br/>
-  Location: __Toronto, ON, Canada__
 
 
 # Projects Section
