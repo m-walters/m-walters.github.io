@@ -10,3 +10,4 @@ vendor
 *.swo
 _config_pdfgen.yml
 _config_default.yml
+*.idea
