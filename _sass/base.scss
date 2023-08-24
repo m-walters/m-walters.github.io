@@ -104,8 +104,8 @@ picture {
 
 #slider {
   position: absolute;
-  width: 4500px;
-  animation: slide 60s linear infinite; }
+  width: 9300px; /* We have 16 unique images, but 31 in our series since 15 are duplicated */
+  animation: slide 20s linear infinite; }
 
 .slider-wrapper {
   height: 200px;
@@ -116,7 +116,8 @@ picture {
 .slider-container {
   float: left;
   height: 100%;
-  width: 6.25%; /* 100% / 16 images */ }
+//   width: 6.25%; /* 100% / 16 images */ }
+  width: 3.32%;
 
 .slider-img {
   object-fit: cover;
@@ -125,7 +126,7 @@ picture {
 
 @keyframes slide {
     0% { left: 0; }
-    100% { left: -3900px; } /* max width minus 1 img */ }
+    100% { left: -4500px; } /* after 15 images pass */ }
 
 html {
   box-sizing: border-box; }
