@@ -104,7 +104,7 @@ picture {
 
 #slider {
   position: relative;
-  width: 5400px; /* 18 images, 300px each */
+  width: 100%;
   overflow: hidden;
   animation: slide 60s linear infinite; }
 
@@ -113,12 +113,12 @@ picture {
   width: 5.5555%; /* 100% / 18 images */ }
 
 .slider-img {
-  width: 300px;
+  width: auto;
   height: 300px; }
 
 @keyframes slide {
     0% { left: 0; }
-    100% { left: -5100px; } /* max width minus 1 img */ }
+    100% { left: 1700%; } /* max width minus 1 img */ }
 
 html {
   box-sizing: border-box; }
