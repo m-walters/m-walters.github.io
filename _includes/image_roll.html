@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div class="container-fluid" href="https://www.instagram.com/{{ site.instagram_username| cgi_escape | escape }}">
     <div class="slider-wrapper">
         <div id="slider">
             {% for i in (1..16) %}
@@ -10,11 +10,19 @@
     </div>
 
     <script>
-        // This code clones the first two images to create a continuous effect
+        // This code clones the first n-1 elements to complete the loop smoothly
+        /*
         var slider = document.getElementById('slider');
         var firstChild = slider.children[0].cloneNode(true);
         var secondChild = slider.children[1].cloneNode(true);
         slider.appendChild(firstChild);
         slider.appendChild(secondChild);
+        */
+
+        var slider = document.getElementById('slider');
+        for (let i = 0; i < 10; i++) {
+            slider.appendChild(slider.children[i].cloneNode(true);
+        }
+
     </script>
 </div>
