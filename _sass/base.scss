@@ -110,15 +110,15 @@ picture {
 
 .slider-container {
   float: left;
-  width: 5.5555%; /* 100% / 18 images */ }
+  width: 30%; /* 100% / 18 images */ }
 
 .slider-img {
   width: auto;
-  height: 300px; }
+  height: 100%; }
 
 @keyframes slide {
     0% { left: 0; }
-    100% { left: 1700%; } /* max width minus 1 img */ }
+    100% { left: -1700%; } /* max width minus 1 img */ }
 
 html {
   box-sizing: border-box; }
