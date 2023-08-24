@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Slider</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+        #slider {
+            position: relative;
+            width: 300%; /* 3 images, 100% each */
+            animation: slide 10s linear infinite;
+        }
+        .image-container {
+            float: left;
+            width: 33.333%; /* 100% / 3 images */
+        }
+        img {
+            width: 100%;
+            height: auto;
+        }
+        @keyframes slide {
+            0% { left: 0; }
+            100% { left: -200%; } /* 100% * (3 images - 1) */
+        }
+    </style>
+</head>
+<body>
+    <h3>Photography</h3>
+    <div class="row clearfix">
+      <div id="slider">
+          <div class="image-container">
+              <img src="garage_sqr_zoom.png" alt="Image 1">
+          </div>
+          <div class="image-container">
+              <img src="selfie-square.JPG" alt="Image 2">
+          </div>
+          <div class="image-container">
+              <img src="wineguy_square.jpg" alt="Image 3">
+          </div>
+      </div>
+    </div>
+
+    <script>
+        // This code clones the first two images to create a continuous effect
+        var slider = document.getElementById('slider');
+        var firstChild = slider.children[0].cloneNode(true);
+        var secondChild = slider.children[1].cloneNode(true);
+        slider.appendChild(firstChild);
+        slider.appendChild(secondChild);
+    </script>
+</body>
+</html>
