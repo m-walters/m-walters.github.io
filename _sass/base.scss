@@ -103,11 +103,15 @@ picture {
   max-width: 100%; }
 
 #slider {
-  position: relative;
-  width: 4500px;
+  position: absolute;
+  width: 100%;
+  animation: slide 60s linear infinite; }
+
+.slider-wrapper {
+  width: 4500px; /* 300px * 18 */
   height: 200px;
   overflow: hidden;
-  animation: slide 60s linear infinite; }
+  position: relative; }
 
 .slider-container {
   float: left;
