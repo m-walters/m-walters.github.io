@@ -106,15 +106,15 @@ picture {
   position: relative;
   width: 300%; /* 3 images, 100% each */
   overflow: hidden;
-  animation: slide 2s linear infinite; }
+  animation: slide 60s linear infinite; }
 
 .slider-container {
   float: left;
   width: 33.333%; /* 100% / 3 images */ }
 
 .slider-img {
-  width: 500%;
-  height: 500%; }
+  width: auto;
+  height: 30px; }
 
 @keyframes slide {
     0% { left: 0; }
