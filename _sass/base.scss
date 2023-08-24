@@ -104,12 +104,13 @@ picture {
 
 #slider {
   position: relative;
-  width: 480%;
+  width: 100%;
   overflow: hidden;
   animation: slide 60s linear infinite; }
 
 .slider-container {
   float: left;
+  height: 100%;
   width: 6.25%; /* 100% / 18 images */ }
 
 .slider-img {
