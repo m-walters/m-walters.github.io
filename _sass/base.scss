@@ -117,7 +117,7 @@ picture {
   float: left;
   height: 100%;
     //   width: 6.25%; /* 100% / 16 images */ }
-  width: 3.32%; }
+  width: 300px; }
 
 .slider-img {
   object-fit: cover;
@@ -126,7 +126,7 @@ picture {
 
 @keyframes slide {
     0% { left: 0; }
-    100% { left: -4500px; } /* after 15 images pass */ }
+    100% { left: -4800px; } /* after 15 images pass */ }
 
 html {
   box-sizing: border-box; }
