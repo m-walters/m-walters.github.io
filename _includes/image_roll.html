@@ -1,32 +1,27 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Slider</title>
-    <style>
-        body {
-            margin: 0;
-            overflow: hidden;
-        }
-        #slider {
-            position: relative;
-            width: 300%; /* 3 images, 100% each */
-            animation: slide 10s linear infinite;
-        }
-        .image-container {
-            float: left;
-            width: 33.333%; /* 100% / 3 images */
-        }
-        img {
-            width: 100%;
-            height: auto;
-        }
-        @keyframes slide {
-            0% { left: 0; }
-            100% { left: -200%; } /* 100% * (3 images - 1) */
-        }
-    </style>
-</head>
-<body>
+<style>
+    body {
+        margin: 0;
+        overflow: hidden;
+    }
+    #slider {
+        position: relative;
+        width: 300%; /* 3 images, 100% each */
+        animation: slide 10s linear infinite;
+    }
+    .image-container {
+        float: left;
+        width: 33.333%; /* 100% / 3 images */
+    }
+    img {
+        width: 100%;
+        height: auto;
+    }
+    @keyframes slide {
+        0% { left: 0; }
+        100% { left: -200%; } /* 100% * (3 images - 1) */
+    }
+</style>
+<div>
     <h3>Photography</h3>
     <div class="row clearfix">
       <div id="slider">
@@ -50,4 +45,4 @@
         slider.appendChild(firstChild);
         slider.appendChild(secondChild);
     </script>
-</body>
+</div>
