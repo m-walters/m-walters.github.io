@@ -1,14 +1,11 @@
-<div>
-    <h3>Photography</h3>
-    <div class="row clearfix">
-        <div class="slider-wrapper">
-            <div id="slider">
-                {% for i in (1..16) %}
-                <div class="slider-container">
-                    <img class="slider-img" src="/assets/images/sliders/{{ i }}.jpg" alt="Image {{ i }}">
-                </div>
-                {% endfor %}
+<div class="container-fluid">
+    <div class="slider-wrapper">
+        <div id="slider">
+            {% for i in (1..16) %}
+            <div class="slider-container">
+                <img class="slider-img" src="/assets/images/sliders/{{ i }}.jpg" alt="Image {{ i }}">
             </div>
+            {% endfor %}
         </div>
     </div>
 

@@ -104,12 +104,13 @@ picture {
 
 #slider {
   position: absolute;
-  width: 100%;
+  width: 4500px;
   animation: slide 60s linear infinite; }
 
 .slider-wrapper {
   width: 4500px; /* 300px * 18 */
   height: 200px;
+  margin-top: 40px;
   overflow: hidden;
   position: relative; }
 
