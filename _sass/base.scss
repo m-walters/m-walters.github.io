@@ -104,11 +104,11 @@ picture {
 
 #slider {
   position: absolute;
-  width: 9300px; /* We have 16 unique images, but 31 in our series since 15 are duplicated */
+  width: 9300px; /* We have 16 unique images, but 31 in our series since 15 are duplicated, 31 * 300 px */
   animation: slide 60s linear infinite; }
 
 .slider-wrapper {
-  height: 200px;
+  height: 220px;
   margin-top: 40px;
   overflow: hidden;
   position: relative; }
@@ -116,8 +116,11 @@ picture {
 .slider-container {
   float: left;
   height: 100%;
-    //   width: 6.25%; /* 100% / 16 images */ }
-  width: 300px; }
+  width: 300px;
+  border-top: 10px solid black;
+  border-bottom: 10px solid black;
+  border-left: 5px solid black;
+  border-right: 5px; solid black}
 
 .slider-img {
   object-fit: cover;
@@ -126,7 +129,7 @@ picture {
 
 @keyframes slide {
     0% { left: 0; }
-    100% { left: -4800px; } /* after 15 images pass */ }
+    100% { left: -4800px; } /* after 16 * 300 px pass */ }
 
 html {
   box-sizing: border-box; }
