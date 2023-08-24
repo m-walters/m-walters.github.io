@@ -6,23 +6,13 @@
                 <img class="slider-img" src="/assets/images/sliders/{{ i }}.jpg" alt="Image {{ i }}">
             </div>
             {% endfor %}
+
+            // We clone all but the last again, so that the loop is seamless
+            {% for i in (1..15) %}
+            <div class="slider-container">
+                <img class="slider-img" src="/assets/images/sliders/{{ i }}.jpg" alt="Image {{ i }}">
+            </div>
+            {% endfor %}
         </div>
     </div>
-
-    <script>
-        // This code clones the first n-1 elements to complete the loop smoothly
-        /*
-        var slider = document.getElementById('slider');
-        var firstChild = slider.children[0].cloneNode(true);
-        var secondChild = slider.children[1].cloneNode(true);
-        slider.appendChild(firstChild);
-        slider.appendChild(secondChild);
-        */
-
-        var slider = document.getElementById('slider');
-        for (let i = 0; i < 15; i++) {
-            slider.appendChild(slider.children[i].cloneNode(true);
-        };
-
-    </script>
 </div>
