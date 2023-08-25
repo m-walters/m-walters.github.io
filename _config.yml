@@ -14,6 +14,9 @@ github_username: m-walters
 instagram_username: hotdoglipstick
 linkedin_username: michaelwalters3000
 
+# https://www.linkedin.com/posts/link-alliance_innovation-safety-cityraillink-activity-7057493881868750848-1pwn/?originalSubdomain=nz
+
+
 # About Section
 about_title: About
 about_profile_image: "/assets/images/garage_sqr_zoom.png"
@@ -22,10 +25,13 @@ about_content: | # this will include new lines to allow paragraphs
   Things that get me out of bed in the morning: Solving problems with math, science, and coding; Collaborating towards meaningful, impacting projects; Coffee.  
   <br/>
   Academically, my latest vocation was a MSc. Physics at the University of Waterloo, where 
-  my research sat at the intersection of machine learning
-  and condensed matter. More details on that below.  
+  my research straddled the intersection of machine learning
+  and condensed matter. Before that, was Hamilton, Ontario's McMaster University.  
   <br/>
-  My latest position was as Senior Backend Developer at [QED](http://qed.software/), where we provided a suite of administrative tools and performance metrics for businesses.
+  Most recently, I was as Senior Backend Developer at [QED](http://qed.software/), developing genericized platform tools and architecture
+  for custom instantiation in business and data management contexts. [Since 2022](https://www.linkedin.com/posts/link-alliance_innovation-safety-cityraillink-activity-7057493881868750848-1pwn/?originalSubdomain=nz)
+  QED has been creating custom software for New Zealand's 
+  ["largest transport infrastructure project ever"](https://www.cityraillink.co.nz/#:~:text=Introducing%20the%20CRL&text=The%20%245.493%20billion%20project%20is,Station%20on%20the%20Western%20Line.).
   In other work placements, I joined the [Hyper-K](http://https://www-sk.icrr.u-tokyo.ac.jp/en/hk/) 
   neutrino detecting efforts&mdash;the successor to the 2015 Nobel Prize winner 
   Super-K&mdash;at Canada's premier accelerator lab, 
