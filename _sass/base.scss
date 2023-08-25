@@ -267,3 +267,12 @@ body {
     display: none !important;
   }
 }
+
+.light-green-box {
+    background-color: #a8e6cf; /* Adjust this color to get the desired shade of light green/teal */
+    border-radius: 15px; /* This will give the box rounded corners */
+    padding: 20px; /* Some padding to give space inside the box */
+    width: 100%; /* Adjust this to desired width */
+    font-style: italic;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); Optional: A little shadow to make it pop */
+}

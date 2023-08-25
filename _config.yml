@@ -1,7 +1,6 @@
 # Site
 repository: m-walters/m-walters.github.io
 favicon: /assets/logo-candy.png
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Michael Walters
@@ -20,10 +19,7 @@ about_title: About
 about_profile_image: "/assets/images/garage_sqr_zoom.png"
 about_content: | # this will include new lines to allow paragraphs
   
-  Things that get me out of bed in the morning: Solving problems in math, science, and coding; Collaborating towards meaningful, impacting projects; Coffee.  
-  I'm currently looking for a position where I can apply my skills in math/physics/software towards something meaningful, and which has a clear
-  benefit to human wellness and/or the environment and its denizens. Areas such as sustainable energy, climate change, health, economic disparity, and topics surrounding
-  AI safety all fit the bill.
+  Things that get me out of bed in the morning: Solving problems with math, science, and coding; Collaborating towards meaningful, impacting projects; Coffee.  
   <br/>
   Academically, my latest vocation was a MSc. Physics at the University of Waterloo, where 
   my research sat at the intersection of machine learning
