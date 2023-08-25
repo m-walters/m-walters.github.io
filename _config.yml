@@ -25,8 +25,8 @@ about_content: | # this will include new lines to allow paragraphs
   Things that get me out of bed in the morning: Solving problems with math, science, and coding; Collaborating towards meaningful, impacting projects; Coffee.  
   <br/>
   Academically, my latest vocation was a MSc. Physics at the University of Waterloo, where 
-  my research straddled the intersection of machine learning
-  and condensed matter. Before that, was Hamilton, Ontario's McMaster University.  
+  my research applied Supervised (FNN, RNN) and Unsupervised (PCA) machine learning methods to simulated liquid crystal systems for defect detection. 
+  Before that, was Hamilton, Ontario's McMaster University.  
   <br/>
   Most recently, I was as Senior Backend Developer at [QED](http://qed.software/), developing genericized platform tools and architecture
   for custom instantiation in business and data management contexts. [Since 2022](https://www.linkedin.com/posts/link-alliance_innovation-safety-cityraillink-activity-7057493881868750848-1pwn/?originalSubdomain=nz)
@@ -44,7 +44,7 @@ about_content: | # this will include new lines to allow paragraphs
   <br/> 
   My strongest software skills are: __Python, Django, Tensorflow, Bash, $$\LaTeX$$, Git, C++, MATLAB, R__
   Frequently used Python libraries: __numpy, pandas, matplotlib, scikit-learn__  
-  I also have experience in: __SQL, Postgres, Geant4, ROOT__   
+  I also have experience in: __HTML, Vue, SQL, Postgres, Geant4, ROOT__   
 
 
 # Projects Section
