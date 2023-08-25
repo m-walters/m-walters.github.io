@@ -19,20 +19,24 @@ about_title: About
 about_profile_image: "/assets/images/garage_sqr_zoom.png"
 about_content: | # this will include new lines to allow paragraphs
   
-  Currently based in Toronto, CA. Always loved math, science, and music, with more recent affairs of interest in computer science, machine learning, and AI at large. I am also interested in channeling my efforts towards a renewable energy future.  
+  Things that get me out of bed in the morning: Solving problems in math, science, and coding; Collaborating towards meaningful, impacting projects; Coffee.  
+  I'm currently looking for a position where I can apply my skills in math/physics/software towards something meaningful, and which has a clear
+  benefit to human wellness and/or the environment and its denizens. Areas such as sustainable energy, climate change, health, economic disparity, and topics surrounding
+  AI safety all fit the bill.
   <br/>
-  Academically, I recently finished my MSc. Physics at the University of Waterloo, where 
+  Academically, my latest vocation was a MSc. Physics at the University of Waterloo, where 
   my research sat at the intersection of machine learning
-  and condensed matter. More details can be found below.  
+  and condensed matter. More details on that below.  
   <br/>
-  Currently, I am a backend developer at [QED](http://qed.andrewlee.co/), where we provide a suite of administrative tools and performance metrics for businesses.
-  In other work placements, I joined the [Hyper-K](http://www.hyperk.org/) 
+  My latest position was as Senior Backend Developer at [QED](http://qed.software/), where we provided a suite of administrative tools and performance metrics for businesses.
+  In other work placements, I joined the [Hyper-K](http://https://www-sk.icrr.u-tokyo.ac.jp/en/hk/) 
   neutrino detecting efforts&mdash;the successor to the 2015 Nobel Prize winner 
   Super-K&mdash;at Canada's premier accelerator lab, 
-  [TRIUMF](https://www.triumf.ca), researched astrophysics 
-  at McMaster University, and developed software at Canada's Communications Security Establishment.  
+  [TRIUMF](https://www.triumf.ca); researched galactic cloud astrophysics via simulation at McMaster University with [James Wadsley's group](https://physics.mcmaster.ca/~wadsley/); 
+  and worked on an anomaly detection ML model at Canada's Communications Security Establishment.  
   <br/>
-  Outside academia, I've dabbled in polymer clay and wood working, music writing, 
+  Outside academic and professional pursuits, I love hosting and making food for friends and family; taking my Olympus OM-1 outdoors for some
+  film shooting (though my bank account would prefer I don't); Volunteering at [The Local Community Food Centre](https://thelocalcfc.org); 
   and masochistically running Linux on my PC.  
   <br/> 
   My strongest software skills are: __Python, Django, Tensorflow, Bash, $$\LaTeX$$, Git, C++, MATLAB, R__
@@ -52,7 +56,8 @@ projects_title: Misc. #(Use this to override about projects section title)
 # More Section
 more_title: Projects & Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - Traffic prediction Graph Neural Net. In progress on github. View the working [toy model](https://github.com/m-walters/graphnn_toy).
+  - \[Patent Pending\] [RiskRay](/assets/risk_ray_summary.pdf). Using ML to detect hips at risk of fracture.
+  - Traffic prediction Graph Neural Net. View the proof-of-concept [toy model](https://github.com/m-walters/traffic_graphnn_toy).
   - My MSc. thesis: _Machine learning topological defects of liquid crystals
   in two dimensions._ Available online on [UWSpace](http://hdl.handle.net/10012/14949) (2019).
   - M. Walters, Q. Wei, J. Z. Y. Chen. _Machine learning topological defects of confined liquid crystals
