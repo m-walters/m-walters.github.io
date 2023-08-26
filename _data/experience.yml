@@ -14,12 +14,10 @@
     The result allows sophisticated customization of not only model properties but interactions across objects on a per customer basis. 
     We also built many other in-house data management features to grant customers insights into their data.  
     
-    I helped to both design and code numerous aspects of this platform through its iterative growth over the past three years. 
+    I worked to both design and code numerous aspects of this platform through its iterative growth over the past three years. 
     Other undertakings of note would include: managing a collaboration between a contracted third party to design a (train) 
     rail-worksite scheduling optimizer using machine learning; Prototyping an Internet-of-Things plug-in to our software; 
     Formulating a multivariate mathematical model for worksite Task Success/Health prediction.
-
-#    With a small team of dedicated developers, I have been building the QED backend architecture in a Django REST API framework. This includes interpreting and codifying design requests from the design team in a smart, robust, and scalable way. I have also helped provide valuable design ideas for the company, including calculations for task completion probability and employee performance metrics.
 
 - company: CSEC
   image: "assets/images/CSEC_logo_canada.svg"
