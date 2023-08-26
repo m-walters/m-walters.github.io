@@ -7,7 +7,10 @@
   description: | # this will include new lines to allow paragraphs
     Thesis-based Master's under Prof. Jeff Chen researching the use and efficacy of neural networks in 
     learning phases of matter and topological defects, using a simulated liquid crystal system 
-    as a testbed. Coursework covered quantum mechanics, quantum many-body systems, Monte Carlo methods, and stochastic processes.  
+    as a testbed. Findings included the novel use of Recurrent Neural Networks to learn topological features in an off-lattice setting.
+    Additional thesis research was done using Principle Component Analysis on simulated localized defects to then identify their presence in
+    large-scale liquid crystal arrangements.
+    Coursework covered quantum mechanics, quantum many-body systems, Monte Carlo methods, and stochastic processes.  
     <br/>
     _2017 Provost Graduate Scholarship recipient_
     
