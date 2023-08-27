@@ -43,7 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
   and masochistically running Linux on my PC.  
   <br/> 
   My strongest software skills are: __Python, Django, Tensorflow, Bash, $$\LaTeX$$, Git, C++, MATLAB, R__  
-  Frequently used Python libraries: __numpy, pandas, matplotlib, scikit-learn__  
+  Frequently used Python libraries: __numpy, pandas, tensorflow, matplotlib, scikit-learn__  
   I also have experience in: __HTML, Vue, SQL, Postgres, Geant4, ROOT__   
 
 
