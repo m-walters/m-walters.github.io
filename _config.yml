@@ -45,6 +45,9 @@ about_content: | # this will include new lines to allow paragraphs
   My strongest software skills are: __Python, Django, Tensorflow, Bash, $$\LaTeX$$, Git, C++, MATLAB, R__  
   Frequently used Python libraries: __numpy, pandas, tensorflow, matplotlib, scikit-learn__  
   I also have experience in: __HTML, Vue, SQL, Postgres, Geant4, ROOT__   
+  <br/>
+  Please note that the majority of my software development contributions have been to private organisation repos on Github, and the repos that _are_ viewable
+  on my profile were really just for my own version control/centralization of my research projects and are not indicative of my collaborative style. Just something to keep in mind...  
 
 
 # Projects Section

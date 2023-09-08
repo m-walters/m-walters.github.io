@@ -11,3 +11,4 @@ vendor
 _config_pdfgen.yml
 _config_default.yml
 *.idea
+*.DS_Store
