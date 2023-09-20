@@ -15,7 +15,7 @@
     This also included building out the REST API, automated testing suites for all corners of the codebase with GitHub Action workflows, and documentation. 
     I also built many other in-house, ad-hoc data management features and reports to grant customers insights into their data.  
     
-    I worked to both design and code numerous aspects of the platform backend through its iterative growth over the past three years.  
+    I worked to both design and code numerous aspects of the platform backend through its iterative growth over the past three years. 
     Other undertakings of note would include: managing a collaboration between a contracted third party to design a (train) 
     rail-worksite scheduling optimizer using machine learning; Prototyping an Internet-of-Things plug-in to our software; 
     Formulating a multivariate mathematical model for worksite Task Success/Health prediction.
