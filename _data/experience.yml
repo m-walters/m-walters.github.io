@@ -1,7 +1,7 @@
 # Experience template
 - company: QED
   image: "assets/images/QED_logo_square.png"
-  job_title: Backend Developer
+  job_title: Senior Backend Developer
   dates: Feb. 2020 - Aug. 2023
   quote: >
   description: |
@@ -9,12 +9,13 @@
     from direct database tinkering to frontend UX, and all the surrounding programs/utilities. 
     This demands both breadth and depth of development to get the job done.  
     
-    More technically, through Django and Postgres we constructed a suite of genericized models and genericized tools and 
+    More technically, through Django and Postgres I had a significant hand in constructing a suite of genericized models, tools, and 
     architecture that could be instantiated and characterized swiftly yet specifically via YAML files for a given product context. 
     The result allows sophisticated customization of not only model properties but interactions across objects on a per customer basis. 
-    We also built many other in-house data management features to grant customers insights into their data.  
+    This also included building out the REST API, automated testing suites for all corners of the codebase with GitHub Action workflows, and documentation. 
+    I also built many other in-house, ad-hoc data management features and reports to grant customers insights into their data.  
     
-    I worked to both design and code numerous aspects of this platform through its iterative growth over the past three years. 
+    I worked to both design and code numerous aspects of the platform backend through its iterative growth over the past three years.  
     Other undertakings of note would include: managing a collaboration between a contracted third party to design a (train) 
     rail-worksite scheduling optimizer using machine learning; Prototyping an Internet-of-Things plug-in to our software; 
     Formulating a multivariate mathematical model for worksite Task Success/Health prediction.
