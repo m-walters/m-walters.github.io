@@ -46,5 +46,6 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     As part of the T2K Canada group, I worked on the successor to the 2015 Nobel Prize-winning neutrino oscillation experiment Super-Kamiokande.
-    My primary work was to determine the timing resolution of three different flash analog-to-digital signal converter modules.
-    This included acquiring and processing signal data, for which I used the CERN analysis toolkit ROOT.
+    My primary work was analyzing the timing resolution of three different flash analog-to-digital signal converter modules.
+    This included acquiring and processing signal data, for which I used the CERN analysis toolkit ROOT. I also simulated neutrino oscillation
+    detection events in the Water-Cherenkov detector, WCSim, using Geant4.
