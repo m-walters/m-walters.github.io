@@ -55,14 +55,18 @@ projects_title: Misc. #(Use this to override about projects section title)
 # More Section
 more_title: Projects & Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - [RiskRay](/assets/risk_ray_summary.pdf). Using ML to detect hips at risk of fracture.
+  - [RiskRay](/assets/risk_ray_summary.pdf). Using ML to detect hips at risk of fracture. _Patent pending._
   - Traffic prediction Graph Neural Net. View the proof-of-concept [toy model](https://github.com/m-walters/traffic_graphnn_toy).
   - My MSc. thesis: _Machine learning topological defects of liquid crystals
   in two dimensions._ Available online on [UWSpace](http://hdl.handle.net/10012/14949) (2019).
   - M. Walters, Q. Wei, J. Z. Y. Chen. _Machine learning topological defects of confined liquid crystals
   in two dimensions._ ([View on Phys. Rev. E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062701?fbclid=IwAR0aaXGnTeYb_p7BAYYYKBftRkI0hv_m88w3ieR3-CnvLsaGrr0GnfhiAbo) / [Read PDF](/assets/walters_2019_final.pdf)) (2019).
-  - [Editor's suggestion] M. B. Bennett _et al._ (24 authors). _Isospin mixing reveals $$^{30}P(p,\gamma)^{31}S$$ resonance influencing nova nucleosynthesis._
+  - M. B. Bennett _et al. Detailed study of the decay $$^{31}Cl(\beta\gamma)^{31}S$$_. Physical Review C 97 (6), 065803 (2018).
+  - E. Aboud _et al. Toward complete spectroscopy using $$\beta$$ decay: The example of $$^{32}Cl(\beta\gamma)^{32}S$$._ Physical Review C 98 (2), 024309 (2018). 
+  - [Editor's suggestion] M. B. Bennett _et al. Isospin mixing reveals $$^{30}P(p,\gamma)^{31}S$$ resonance influencing nova nucleosynthesis._
   Phys. Rev. Lett. 116, 102502, (2016).
+  - M. B. Bennett _et al. Isobaric multiplet mass equation in the $$A = 31, T = 3/2$$ quartets._ Physical Review C 93 (6), 064310 (2016).
+  - C. Wrede _et al. $$\beta$$ Decay as a Probe of Explosive Nucleosynthesis in Classical Novae._ Physics Procedia 66, 532-536 (2015).
   
 
 # Footer
