@@ -1,0 +1,24 @@
+<div class="container blog-container">
+  <h3>{{ Solipschizm }}</h3>
+  <div class="row clearfix">
+    <div class="col-md-12">
+        # List the most recent three blog posts from my directory _posts
+        {% for post in site.posts limit:3 %}
+          <div class="post">
+            <h4>
+              <a href="{{ post.url | relative_url }}">
+                {{ post.title }}
+              </a>
+            </h4>
+            <p class="post-date">{{ post.date | date: "%B %-d, %Y" }}</p>
+            <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+            <p>
+              <a href="{{ post.url | relative_url }}">
+                Read more
+              </a>
+            </p>
+          </div>
+        {% endfor %}
+    </div>
+  </div>
+</div>

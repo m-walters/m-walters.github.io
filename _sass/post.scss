@@ -1,0 +1,33 @@
+// CSS file for my blog posts
+// The theme has the same font etc. as the rest of the site
+// I want like a light cream color for the background and the text
+// to be a dark like midnight blue
+@import "base";
+@import "button";
+@import "type";
+
+body {
+    background-color: #F9F1E7;
+    font-family: "Open Sans", sans-serif;
+    color: #001f3f;
+}
+
+// The title of the blog post should be centered
+.post-title {
+    text-align: center;
+}
+
+// The date of the blog post should be centered
+.post-date {
+    text-align: center;
+}
+
+// The blog post itself should be centered
+.post-content {
+    text-align: center;
+}
+
+// The footer should be centered
+.post-footer {
+    text-align: center;
+}
