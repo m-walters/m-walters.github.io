@@ -6,32 +6,33 @@
 // @import "button";
 // @import "type";
 
-.blog-page .blog-post .blog-container {
+.blog {
+    background-color: #F9F1E7;
+    color: #001f3f;
+}
+
+.post {
     background-color: #F9F1E7;
     color: #001f3f;
 
-    h3 {
-        margin-bottom: 0;
-    }
+    text-align: center;
 }
 
+.post-home {
+}
 
-// The title of the blog post should be centered
 .post-title {
     text-align: center;
 }
 
-// The date of the blog post should be centered
 .post-date {
     text-align: center;
 }
 
-// The blog post itself should be centered
 .post-content {
     text-align: center;
 }
 
-// The footer should be centered
 .post-footer {
     text-align: center;
 }

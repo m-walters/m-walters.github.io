@@ -4,9 +4,22 @@
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/modern-resume-theme.css">
-    <a href="/blog.html">Home</a>
 </head>
 <body>
+    <div class="header-wrapper">
+        <div class="container">
+            <div class="profile-picture">
+                <img src="/assets/images/profile.png" alt="Profile picture">
+            </div>
+            <div class="profile-content">
+                <h1 class="name">{{ site.author.name }}</h1>
+                <h2 class="desc">{{ site.author.description }}</h2>
+            </div>
+        </div>
+        <div class="post-home">
+            <a href="/blog.html">Home</a>
+        </div>
+    </div>
     <div class="post">
         <h1 class="post-title">{{ page.title }}</h1>
         <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
