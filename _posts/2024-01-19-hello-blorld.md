@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Welcome to Solipschism
+title:  Um, "Gnosh"?
 date:   2024-01-19 11:59:59 +0000
 categories: blog posts
-excerpt: My excerpt
+excerpt: What on earth is Gnosh?
 ---
 
 A place for me to record musings and things that are interesting me.
