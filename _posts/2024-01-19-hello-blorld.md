@@ -2,7 +2,7 @@
 layout: post
 title:  Welcome to Solipschism
 date:   2024-01-19 11:59:59 +0000
-categories: jekyll update
+categories: posts
 excerpt: My excerpt
 ---
 
