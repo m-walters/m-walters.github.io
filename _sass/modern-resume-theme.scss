@@ -3,6 +3,7 @@
 @import "type";
 @import "dark";
 @import "icons";
+@import "image-roll";
 
 .header-right p {
   margin-bottom: 3px;
@@ -190,5 +191,18 @@ p.quote {
     text-align: left;
     padding: 0rem 1rem;
     margin-top: 1rem;
+  }
+}
+
+.light-green-box {
+  background-color: #a8e6cf; /* Adjust this color to get the desired shade of light green/teal, alt 85D39B */
+  border-radius: 15px; /* This will give the box rounded corners */
+  padding: 20px; /* Some padding to give space inside the box */
+  width: 100%; /* Adjust this to desired width */
+  font-size: 1em;
+  font-style: italic;
+
+  p {
+    margin-bottom: 0;
   }
 }
