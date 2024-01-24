@@ -38,7 +38,9 @@ about_content: | # this will include new lines to allow paragraphs
   Outside academic and professional pursuits, I love hosting and making food for friends and family; taking my Olympus OM-1 outdoors for some
   film shooting (though my bank account would prefer I don't); Volunteering at [The Local Community Food Centre](https://thelocalcfc.org); 
   and masochistically running Linux on my PC.  
-  <br/> 
+  <br/>
+  I also write weekly on AI/AI Safety papers on my substack, [Weekly Aligned].
+  <br/>
   My strongest software skills are: __Python, Django, Tensorflow, Bash, $$\LaTeX$$, Git, C++, MATLAB, R__  
   Frequently used Python libraries: __numpy, pandas, tensorflow, matplotlib, scikit-learn__  
   I also have experience in: __HTML, Vue, SQL, Postgres, Geant4, ROOT__   
@@ -55,6 +57,7 @@ projects_title: Misc. #(Use this to override about projects section title)
 # More Section
 more_title: Projects & Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+  - Writing weekly on AI/AI Safety papers on my substack, [Weekly Aligned](https://weeklyaligned.substack.com).  
   - [RiskRay](/assets/risk_ray_summary.pdf). Using ML to detect hips at risk of fracture. _Patent pending._
   - Traffic prediction Graph Neural Net. View the proof-of-concept [toy model](https://github.com/m-walters/traffic_graphnn_toy).
   - My MSc. thesis: _Machine learning topological defects of liquid crystals
