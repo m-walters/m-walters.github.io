@@ -1,4 +1,20 @@
 # Experience template
+- company: SPAR
+  image: "assets/images/spar-logo-icon.png"
+  job_title: AI Safety Researcher
+  dates: Feb. 2024 - Present
+  quote: >
+  description: |
+    The Supervised Program for Alignment Research (SPAR) program out of Berkeley brings project leads and new researchers together
+    to tackle questions at the forefront of AI safety and alignment. I have joined two such projects.
+    
+    With Kellin Pelrine, our group is looking into applying hybrid neural network architectures, including LLMs and 
+    anomaly detection, to combat malicious coordinated group activities on social media.
+    
+    With Rafael Kaufmann and Roman Leventov, our group is looking at how systems referencing a shared causal
+    world-model can help us reason about, quantify and improve the safety of AI systems in their interactions 
+    with real-world (physical and social) environments.
+
 - company: QED
   image: "assets/images/QED_logo_square.png"
   job_title: Senior Backend Developer
