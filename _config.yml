@@ -4,7 +4,7 @@ favicon: /assets/logo-candy.png
 
 # Personal info
 name: Michael Walters
-title: Physicist, Developer, Occasional Photographer
+title: Physicist, AI Safety Researcher, Occasional Photographer
 email: michaelwalters3000@gmail.com
 #phone: +1 519-949-4428
 profile: m-walters.github.io
@@ -25,7 +25,13 @@ about_content: | # this will include new lines to allow paragraphs
   my research applied Supervised (FNN, RNN) and Unsupervised (PCA) machine learning methods to simulated liquid crystal systems for defect detection. 
   Before that, was Hamilton, Ontario's McMaster University.  
   <br/>
-  Most recently, I was as Senior Backend Developer at [QED](http://qed.software/), developing genericized platform tools and architecture
+  Currently, my focus is now solely on AI safety efforts. I have joined a couple such projects with the [Supervised Program
+  for Alignment Research](https://berkeleyaisafety.com/spar) (SPAR), described below. Though I find many topics in the space engaging and important, at the moment
+  I am more concerned with near(er) term harms vs. catastrophic x-risk scenarios (though I don't rate such events as safely improbable).
+  In addition to SPAR, I am an active participant in the [AI Governance & Safety Canada](https://aigs.ca) group, looking to ensure
+  positive outcomes for AI in, and from, Canada.
+  <br/>
+  In past work, I was as Senior Backend Developer at [QED](http://qed.software/), developing genericized platform tools and architecture
   for custom instantiation in business and data management contexts. [Since 2022](https://www.linkedin.com/posts/link-alliance_innovation-safety-cityraillink-activity-7057493881868750848-1pwn/?originalSubdomain=nz)
   QED has been creating custom software for New Zealand's 
   ["largest transport infrastructure project ever"](https://www.cityraillink.co.nz/#:~:text=Introducing%20the%20CRL&text=The%20%245.493%20billion%20project%20is,Station%20on%20the%20Western%20Line.).
@@ -58,7 +64,7 @@ projects_title: Misc. #(Use this to override about projects section title)
 # More Section
 more_title: Projects & Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - Writing weekly on AI/AI Safety papers on my substack, [Weekly Aligned](https://www.weeklyaligned.com).  
+  - Writing weekly on AI/AI Safety papers on my substack, [Weekly Aligned](https://www.weeklyaligned.com).
   - [RiskRay](/assets/risk_ray_summary.pdf). Using ML to detect hips at risk of fracture. _Patent pending._
   - Traffic prediction Graph Neural Net. View the proof-of-concept [toy model](https://github.com/m-walters/traffic_graphnn_toy).
   - My MSc. thesis: _Machine learning topological defects of liquid crystals
