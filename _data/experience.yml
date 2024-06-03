@@ -5,8 +5,8 @@
   dates: Feb. 2024 - Present
   quote: >
   description: |
-    The [Supervised Program for Alignment Research](https://berkeleyaisafety.com/spar) (SPAR) program out of Berkeley brings project leads and new researchers together
-    to tackle questions at the forefront of AI safety and alignment. I have joined two such projects.
+    The [Supervised Program for Alignment Research](https://berkeleyaisafety.com/spar) (SPAR) program brings project leads and new researchers together
+    to tackle questions at the forefront of AI safety and alignment. Through SPAR I have joined three projects:
     
     With Kellin Pelrine, our group is looking into applying hybrid neural network architectures, including LLMs and 
     anomaly detection, to combat malicious coordinated group activities on social media.
@@ -14,6 +14,10 @@
     With Rafael Kaufmann and Roman Leventov, our group is looking at how systems referencing a shared causal
     world-model can help us reason about, quantify and improve the safety of AI systems in their interactions 
     with real-world (physical and social) environments.
+
+    With Gabriel Mukobi, our group is investigating algorithms and benchmarks for Unadaptable Foundation Models. 
+    If tenable, pretrained models that undergo unadaptability processing would be resistant to finetuning in certain directions, while ideally 
+    maintaining the capacity for desirable finetuning directions.
 
 - company: QED
   image: "assets/images/QED_logo_square.png"
