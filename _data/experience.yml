@@ -1,6 +1,6 @@
 # Experience template
 - company: ActInf Research
-  image: "assets/images/gymnasium_black.png"
+  image: "assets/images/gymnasium_black.svg"
   job_title: Research lead
   dates: May 2024 - Present
   quote: >
@@ -9,11 +9,11 @@
     
     In my recent research, I've been putting into practice theory from Active Inference and Free-Energy-based
     learning directives, in collaboration with 
-    [Rafael Kaufmann](https://rkauf.me/), and [Justice Sefas](https://drive.google.com/file/d/1YONbkq3uRGEpzZ-88Qhzz26p8kqE1toC/view).  
+    [Rafael Kaufmann](https://rkauf.me/) and [Justice Sefas](https://drive.google.com/file/d/1YONbkq3uRGEpzZ-88Qhzz26p8kqE1toC/view).  
     
     We are demonstrating how ActInf formalisms can provide first-principle risk metrics to stakeholders, aiding to
     bridge inner and outer alignment between stakeholders and agent objective functions. 
-    In one scenario we demonstrate how agent forecasting can signal population collapse in a fisheries context.  
+    In one scenario we demonstrate how agent forecasting can signal population collapse in a fisheries context. 
     In another, we investigate how our risk metric can inform a gatekeeper module in autonomous vehicle decision-making.
     
     These experiments utilize probabilistic programming, generative modeling, and the `gymnasium` toolkit.
