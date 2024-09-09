@@ -17,7 +17,8 @@
     In another, we investigate how our risk metric can inform a gatekeeper module in autonomous vehicle decision-making.
     
     These experiments utilize probabilistic programming, generative modeling, and the `gymnasium` toolkit.
-    We aim to preprint our findings over the next few months. 
+    We aim to preprint our findings over the next few months, but here are some 
+    [recent slides](https://slides.com/michaelwalters/gaia-network-lightweight-deck-ai-safety/scroll). 
     
 
 - company: SPAR
