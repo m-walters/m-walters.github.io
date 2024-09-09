@@ -49,6 +49,16 @@
     At the Communications Security Establishment of Canada I programmed a hybrid neural net for anomaly detection. The language was primarily Python,
     using TensorFlow with a Postgres database.
 
+#- company: Coursera
+#  image: "assets/images/coursera-logo.png"
+#  job_title: Machine Learning Fundamentals
+#  dates: Sep - Nov, 2016
+#  quote: >
+#  description: |
+#    Course offered by Stanford online through Coursera. Covered machine learning fundamentals,
+#    common architectures, and techniques.
+#    [Link to certificate](https://www.coursera.org/account/accomplishments/certificate/XUX6LULU9G8W)
+
 - company: McMaster University
   image: "assets/images/mcmaster-plain-crest.png"
   job_title: Astrophysics Researcher

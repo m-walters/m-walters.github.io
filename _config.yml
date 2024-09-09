@@ -21,6 +21,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   Things that get me out of bed in the morning: Solving problems with math, science, and coding; Collaborating towards meaningful, impacting projects; Coffee.  
   <br/>
+  My current focus is on probabilistic agentic AI systems. 
+  In particular, experimenting with Active Inference and Variational Free Energy-directed learning structures—mathematical formulations that
+  entwine concepts from physics first-principles with theories of intelligence.
+  
   Academically, my latest vocation was a MSc. Physics at the University of Waterloo, where 
   my research applied Supervised (FNN, RNN) and Unsupervised (PCA) machine learning methods to simulated liquid crystal systems for defect detection. 
   Before that, was Hamilton, Ontario's McMaster University.  
@@ -59,7 +63,7 @@ projects_title: Misc. #(Use this to override about projects section title)
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Education
 
 # More Section
 more_title: Projects & Publications #(Use this to override about more section title)
