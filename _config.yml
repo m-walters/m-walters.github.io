@@ -22,8 +22,8 @@ about_content: | # this will include new lines to allow paragraphs
   Things that get me out of bed in the morning: Solving problems with math, science, and coding; Collaborating towards meaningful, impacting projects; Coffee.  
   <br/>
   My current focus is on probabilistic agentic AI systems. 
-  In particular, experimenting with Active Inference and Variational Free Energy-directed learning structures—mathematical formulations 
-  entwining concepts from physics first-principles with theories of intelligence.
+  In particular, probabilistic programming, Bayesian methods, and experimenting with Active Inference and Variational Free Energy-directed learning structures—mathematical formulations 
+  entwining concepts from physics first-principles with theories of intelligence.  
   <br/>
   I also have an interest in AI safety efforts, with a bent towards near(er) term harms (misinformation, malicious actors, socioeconomic disparities, etc.) vs. catastrophic x-risk scenarios 
   (though I don't rate such events as safely ignorable). 
@@ -48,7 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   <br/>
   My strongest software skills are: __Python, Django, Tensorflow, Bash, $$\LaTeX$$, Git, C++, MATLAB, R__  
-  Frequently used Python libraries: __numpy, pandas, tensorflow, matplotlib, scikit-learn__  
+  Frequently used Python libraries: __numpy, pandas, tensorflow, pytorch, matplotlib, scikit-learn__  
   I also have experience in: __HTML, Vue, SQL, Postgres, Geant4, ROOT__   
 
 # Projects Section
