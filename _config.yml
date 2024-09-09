@@ -22,17 +22,12 @@ about_content: | # this will include new lines to allow paragraphs
   Things that get me out of bed in the morning: Solving problems with math, science, and coding; Collaborating towards meaningful, impacting projects; Coffee.  
   <br/>
   My current focus is on probabilistic agentic AI systems. 
-  In particular, experimenting with Active Inference and Variational Free Energy-directed learning structures—mathematical formulations that
-  entwine concepts from physics first-principles with theories of intelligence.
-  
-  Academically, my latest vocation was a MSc. Physics at the University of Waterloo, where 
-  my research applied Supervised (FNN, RNN) and Unsupervised (PCA) machine learning methods to simulated liquid crystal systems for defect detection. 
-  Before that, was Hamilton, Ontario's McMaster University.  
+  In particular, experimenting with Active Inference and Variational Free Energy-directed learning structures—mathematical formulations 
+  entwining concepts from physics first-principles with theories of intelligence.
   <br/>
-  Currently, my focus is now solely on AI safety efforts. I have joined a couple such projects with the [Supervised Program
-  for Alignment Research](https://berkeleyaisafety.com/spar) (SPAR), described below. Though I find many topics in the space engaging and important, at the moment
-  I am more concerned with near(er) term harms vs. catastrophic x-risk scenarios (though I don't rate such events as safely improbable).
-  In addition to SPAR, I am an active participant and volunteer in the [AI Governance & Safety Canada](https://aigs.ca) (AIGS) group, looking to ensure
+  I also have an interest in AI safety efforts, with a bent towards near(er) term harms (misinformation, malicious actors, socioeconomic disparities, etc.) vs. catastrophic x-risk scenarios 
+  (though I don't rate such events as safely ignorable). 
+  I'm a recent alum from the SPAR research program, and am an active participant and volunteer in the [AI Governance & Safety Canada](https://aigs.ca) (AIGS) group, looking to ensure
   positive outcomes for AI in, and from, Canada.  
   <br/>
   In past work, I was as Senior Backend Developer at [QED](http://qed.software/), developing genericized platform tools and architecture
