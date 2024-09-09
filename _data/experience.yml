@@ -1,20 +1,37 @@
 # Experience template
+- company: ActInf Research
+  image: "assets/images/gymnasium_black.png"
+  job_title: Research lead
+  dates: May 2024 - Present
+  quote: Better decision-making with AI risk estimation
+  description: |
+    In my recent research, I've been putting into practice theory from Active Inference and Free-Energy-based
+    learning directives, in collaboration with 
+    [Rafael Kaufmann](https://rkauf.me/), and [Justice Sefas](https://drive.google.com/file/d/1YONbkq3uRGEpzZ-88Qhzz26p8kqE1toC/view).  
+    
+    We are demonstrating how ActInf formalisms can provide first-principle risk metrics to stakeholders, aiding to
+    bridge inner and outer alignment between stakeholders and agent objective functions. 
+    In one scenario we demonstrate how agent forecasting can signal population collapse in a fisheries context.  
+    In another, we investigate how our risk metric can inform a gatekeeper module in autonomous vehicle decision-making.   
+    We aim to preprint our findings over the next few months. 
+    
+
 - company: SPAR
   image: "assets/images/spar-logo-icon.png"
   job_title: AI Safety Researcher
-  dates: Feb. 2024 - Present
+  dates: Feb. - May, 2024
   quote: >
   description: |
     The [Supervised Program for Alignment Research](https://berkeleyaisafety.com/spar) (SPAR) program brings project leads and new researchers together
-    to tackle questions at the forefront of AI safety and alignment. Through SPAR I have joined three projects:
-    
-    With Kellin Pelrine, our group is looking into applying hybrid neural network architectures, including LLMs and 
-    anomaly detection, to combat malicious coordinated group activities on social media.
+    to tackle questions at the forefront of AI safety and alignment. Through SPAR I joined three projects:
     
     With Rafael Kaufmann and Roman Leventov, our group is looking at how systems referencing a shared causal
     world-model can help us reason about, quantify and improve the safety of AI systems in their interactions 
     with real-world (physical and social) environments.
 
+    With Kellin Pelrine, our group is looking into applying hybrid neural network architectures, including LLMs and 
+    anomaly detection, to combat malicious coordinated group activities on social media.
+    
     With Gabriel Mukobi, our group is investigating algorithms and benchmarks for Unadaptable Foundation Models. 
     If tenable, pretrained models that undergo unadaptability processing would be resistant to finetuning in certain directions, while ideally 
     maintaining the capacity for desirable finetuning directions.
