@@ -63,7 +63,7 @@ education_title: Education
 # More Section
 more_title: Projects & Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - Writing weekly on AI/AI Safety papers on my substack, [Weekly Aligned](https://www.weeklyaligned.com).
+  - AI/AI Safety paper reviews on my substack, [Weekly Aligned](https://www.weeklyaligned.com).
   - Volunteering with [AIGS](https://aigs.ca): Contributions to the weekly Toronto AI Safety Meetup, and various website improvement efforts.  
   - [RiskRay](/assets/risk_ray_summary.pdf). Using ML to detect hips at risk of fracture. _Patent pending._
   - Traffic prediction Graph Neural Net. View the proof-of-concept [toy model](https://github.com/m-walters/traffic_graphnn_toy).
