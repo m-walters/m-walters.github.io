@@ -60,6 +60,10 @@
   color: #fff;
   -webkit-transition: color 0.3s;
   transition: color 0.3s;
+  // From gpt
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .button--sacnite:hover {
