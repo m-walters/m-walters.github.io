@@ -46,12 +46,6 @@
   max-width: 400px;
 }
 
-.center-icon {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .button.button--sacnite {
   width: 60px;
   height: 60px;
@@ -60,10 +54,6 @@
   color: #fff;
   -webkit-transition: color 0.3s;
   transition: color 0.3s;
-  // From gpt
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .button--sacnite:hover {
