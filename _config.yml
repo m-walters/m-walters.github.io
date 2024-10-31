@@ -49,7 +49,7 @@ about_content: | # this will include new lines to allow paragraphs
   You can further read some of my thoughts and writing on [my blog](http://quarryblog.substack.com).
 
   <br/>
-  What I like to do: __ML, Simulations, HPC, NLP, Graph Networks, Bash, DevOps, API-backends, Auto-Testing, $$\LaTeX$$, Git, __  
+  What I like to do: __ML, Simulations, HPC, NLP, Graph Networks, Bash, DevOps, API-backends, Auto-Testing, $$\LaTeX$$, Git__  
   How I like to do it: __numpy, pandas, scipy, gymnasium, scikit, tensorflow, pytorch, xarray, seaborn, huggingface, pymc, langchain__  
 
 # Projects Section
