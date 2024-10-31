@@ -13,6 +13,10 @@
 
       {%- include about.html -%}
 
+      {%- if site.more_content -%}
+        {%- include more.html -%}
+      {%- endif -%}
+
       {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
       {%- endif -%}
@@ -26,10 +30,6 @@
         {%- include projects.html -%}
       {%- endif -%}
 -->
-
-      {%- if site.more_content -%}
-        {%- include more.html -%}
-      {%- endif -%}
 
       {%- include image_roll.html -%}
 
