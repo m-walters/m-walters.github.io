@@ -62,7 +62,7 @@ experience_title: Past & Ongoing
 # More Section
 more_title: Works & Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - AI-safety paper reviews and other writings on [my blog](http://quarryblog.substack.com).
+  - AI-safety paper reviews and other writings on my blog, [http://quarryblog.substack.com](http://quarryblog.substack.com).
   - Volunteering with [AIGS](https://aigs.ca): Contributions to the weekly Toronto AI Safety Meetup, and various website improvement efforts.  
   - [RiskRay](/assets/risk_ray_summary.pdf). Using ML to detect hips at risk of fracture. _Patent pending._
   - Traffic prediction Graph Neural Net. View the proof-of-concept [toy model](https://github.com/m-walters/traffic_graphnn_toy).
