@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   <br/>
   What I like to do: __ML, Simulations, HPC, NLP, Graph Networks, Shelling, DevOps, API development, $$\LaTeX$$, Git__  
-  How I like to do it: __pandas, scipy, gymnasium, scikit, tensorflow, pytorch, xarray, seaborn, huggingface, pytest, pymc, langchain__  
+  How I like to do it: __pandas, scipy, gymnasium, scikit, tensorflow, pytorch, xarray, seaborn, huggingface, pymc, langchain__  
 
 # Projects Section
 projects_title: Misc. #(Use this to override about projects section title)
