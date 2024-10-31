@@ -6,7 +6,7 @@ favicon: /assets/logo-candy.png
 name: Michael Walters
 # title: Physicist, AI Safety Researcher, Occasional Photographer
 title: AI for safety, safety for AI
-email: michaelwalters3000@gmail.com
+email: michaelwalters3000
 #phone: +1 519-949-4428
 profile: m-walters.github.io
 
@@ -45,8 +45,8 @@ about_content: | # this will include new lines to allow paragraphs
   Outside academic and professional pursuits, I love hosting and making food for friends and family; taking my Olympus OM-1 outdoors for some
   film shooting (though my bank account would prefer I don't); Volunteering at [The Local Community Food Centre](https://thelocalcfc.org); 
   and masochistically running Linux on my PC.  
-  <br/>
-  You can further read some of my thoughts and writing on [my blog](http://quarryblog.substack.com).
+#  <br/>
+#  You can further read some of my thoughts and writing on [my blog](http://quarryblog.substack.com).
 
   <br/>
   What I like to do: __ML, Simulations, HPC, NLP, Graph Networks, Shelling, DevOps, API/Backend development, $$\LaTeX$$, Git__  
@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 projects_title: Misc. #(Use this to override about projects section title)
 
 # Education Section
-education_title: Education
+education_title: Almae Matres
 
 # Experience Section
 experience_title: Past & Ongoing
