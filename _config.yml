@@ -6,7 +6,7 @@ favicon: /assets/logo-candy.png
 name: Michael Walters
 # title: Physicist, AI Safety Researcher, Occasional Photographer
 title: AI for safety, safety for AI
-email: michaelwalters3000@gmail.com
+email: michaelwalters3000
 #phone: +1 519-949-4428
 profile: m-walters.github.io
 
@@ -17,20 +17,20 @@ linkedin_username: michaelwalters3000
 
 # About Section
 about_title: About
-about_profile_image: "/assets/images/corridor_zoom_2.png"
+about_profile_image: "/assets/images/autumn-bridge-oct2024-zoom.png"
 about_content: | # this will include new lines to allow paragraphs
   
   Things that get me out of bed in the morning: Solving problems with math, science, and coding; Collaborating towards meaningful projects; Coffee.  
   <br/>
-  My current focus is on probabilistic agentic AI systems. 
-  In particular, experimenting with Active Inference and Variational Free Energy-directed learning structures—mathematical formulations 
+  My current focus is on probabilistic agentic AI systems and safety applications. 
+  In particular, experimenting with Active Inference and Variational Free Energy-directed learning structures&mdash;mathematical formulations 
   entwining concepts from physics first-principles with theories of intelligence. 
   I am also interested in probabilistic programming, Bayesian methods, and generative world modeling.   
   <br/>
-  I also have an interest in AI safety efforts, with a bent towards near(er) term harms (misinformation, malicious actors, socioeconomic disparities, etc.) vs. catastrophic x-risk scenarios 
+  My personal concern with AI-threat models bends towards nearer-term harms (misinformation, malicious actors, socioeconomic disparities, etc.) vs. catastrophic x-risk scenarios 
   (though I don't rate such events as safely ignorable). 
   I'm a recent alum from the SPAR research program, and am an active participant and volunteer in the [AI Governance & Safety Canada](https://aigs.ca) (AIGS) group, looking to ensure
-  positive outcomes for AI in, and from, Canada.  
+  positive outcomes for AI in Canada.  
   <br/>
   In past work, I was as Senior Backend Developer at [QED](http://qed.software/), developing genericized platform tools and architecture
   for custom instantiation in business and data management contexts. [Since 2022](https://www.linkedin.com/posts/link-alliance_innovation-safety-cityraillink-activity-7057493881868750848-1pwn/?originalSubdomain=nz)
@@ -45,27 +45,24 @@ about_content: | # this will include new lines to allow paragraphs
   Outside academic and professional pursuits, I love hosting and making food for friends and family; taking my Olympus OM-1 outdoors for some
   film shooting (though my bank account would prefer I don't); Volunteering at [The Local Community Food Centre](https://thelocalcfc.org); 
   and masochistically running Linux on my PC.  
-  <br/>
-  You can also read some of my thoughts and writing on [my blog](http://quarryblog.substack.com).
 
   <br/>
-  Software proficiencies: __Python, ML, Simulations, HPC, Django, Bash, DevOps, $$\LaTeX$$, Git, C++, MATLAB, R__  
-  Top Python libraries: __numpy, pandas, scipy, gymnasium, tensorflow, pytorch, xarray, seaborn, huggingface, scikit, pymc__  
-  Tertiary experience: __HTML, Vue, SQL, Postgres, Geant4, ROOT__   
+  What I like to do: __ML, Simulations, HPC, NLP, Graph Networks, Shelling, DevOps, API/Backend development, $$\LaTeX$$, Git__  
+  How I like to do it: __pandas, scipy, gymnasium, scikit, tf/pytorch, xarray, seaborn, huggingface, pymc, langchain__  
 
 # Projects Section
 projects_title: Misc. #(Use this to override about projects section title)
 
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
-
 # Education Section
-education_title: Education
+education_title: Almae Matres
+
+# Experience Section
+experience_title: Past & Ongoing
 
 # More Section
-more_title: Projects & Publications #(Use this to override about more section title)
+more_title: Works & Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - AI-safety paper reviews and other writings on [my blog](http://quarryblog.substack.com).
+  - AI-safety paper reviews and other writings on my blog, [http://quarryblog.substack.com](http://quarryblog.substack.com).
   - Volunteering with [AIGS](https://aigs.ca): Contributions to the weekly Toronto AI Safety Meetup, and various website improvement efforts.  
   - [RiskRay](/assets/risk_ray_summary.pdf). Using ML to detect hips at risk of fracture. _Patent pending._
   - Traffic prediction Graph Neural Net. View the proof-of-concept [toy model](https://github.com/m-walters/traffic_graphnn_toy).
