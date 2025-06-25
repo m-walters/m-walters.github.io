@@ -60,7 +60,7 @@ experience_title: Past & Ongoing
 # More Section
 more_title: Works & Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - M. Walters, R. Kaufmann, F. Neubürger, T. Kopinski, D. Marković, _The CRISTAL Method: Fast, reliable analytical problem-solving with pre-synthesized grounded world models_ (2025). [Read pdf](assets/cristal_benchmarking.pdf).
+  - M. Walters, R. Kaufmann, F. Neubürger, T. Kopinski, D. Marković, _The CRISTAL Method: Fast, reliable analytical problem-solving with pre-synthesized grounded world models_ (2025). [Read pdf](assets/cristal_benchmarking.pdf). (submitted to [NeSy 2025](https://2025.nesyconf.org/))
   - M. Walters, R. Kaufmann, J. Sefas, T. Kopinski. _Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-agent Study_ (2025). [Read pdf](assets/AV_risk_MW_etal_v1.pdf). 
   - [RiskRay](/assets/risk_ray_summary.pdf) (Patented). Using ML to detect hips at risk of fracture.
   - Traffic prediction Graph Neural Net. View the proof-of-concept [toy model](https://github.com/m-walters/traffic_graphnn_toy).
