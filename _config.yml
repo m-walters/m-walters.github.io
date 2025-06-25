@@ -6,7 +6,7 @@ favicon: /assets/logo-candy.png
 name: Michael Walters
 # title: Physicist, AI Safety Researcher, Occasional Photographer
 title: AI for safety, safety for AI
-email: michaelwalters3000
+email: mw[at]gaia-lab[dot]de
 #phone: +1 519-949-4428
 profile: m-walters.github.io
 
@@ -32,11 +32,12 @@ about_content: | # this will include new lines to allow paragraphs
   for improved and safer AI operations.
   <br/>
   
-  I also write about various AI subjects and my interests on my blog [Quarry](https://quarryblog.substack.com/).
+  I also write about various AI subjects and interests on my blog [Quarry](https://quarryblog.substack.com/).
   Overall, I would say I'm a sober moderate regarding AI threat models.
   My concern bends towards nearer-term harms (dis-/misinformation, malicious actors, 
   socioeconomic disparities and power concentration, etc.) vs. catastrophic x-risk scenarios 
-  (though I don't rate x-risk events as safely ignorable).
+  (though I don't rate all x-risk events as sufficiently ignorable).
+  
   <br/>
   
   I love hosting and making food for friends and family; taking my Olympus OM-1 outdoors for some
@@ -54,6 +55,7 @@ experience_title: Past & Ongoing
 # More Section
 more_title: Works & Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+  - M. Walters, 
   - M. Walters, R. Kaufmann, J. Sefas, T. Kopinski. _Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-agent Study_ (2025). [Read pdf](assets/AV_risk_MW_etal_v1.pdf). 
   - AI-safety paper reviews and other writings on my blog, [http://quarryblog.substack.com](http://quarryblog.substack.com).
   - Volunteering with [AIGS](https://aigs.ca): Contributions to the weekly Toronto AI Safety Meetup, and various website improvement efforts.  
