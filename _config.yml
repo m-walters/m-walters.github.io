@@ -20,13 +20,6 @@ about_title: About
 about_profile_image: "/assets/images/autumn-selfie.png"
 about_content: | # this will include new lines to allow paragraphs
   
-  #  Things that get me out of bed in the morning: Solving problems with math, science, and coding; Collaborating towards meaningful projects; Coffee.  
-  #  <br/>
-  #  My current focus is on probabilistic agentic AI systems and safety applications.
-  #  In particular, experimenting with Active Inference and Variational Free Energy-directed learning structures&mdash;mathematical formulations
-  #  entwining concepts from physics first-principles with theories of intelligence.
-  #  I am also interested in probabilistic programming, Bayesian methods, and generative world modeling.
-  
   I'm interested in next-gen agentic AI systems that incorporate robust world models into their architectures.
   World models quantify an agent's uncertainty in its beliefs, provides transparency for us to view how
   an agent models its world, and in turn allows for safer operations and better value convergence.
@@ -42,24 +35,9 @@ about_content: | # this will include new lines to allow paragraphs
   My concern bends towards nearer-term harms (dis-/misinformation, malicious actors, 
   socioeconomic disparities and power concentration, etc.) vs. catastrophic x-risk scenarios 
   (though I don't rate x-risk events as safely ignorable). 
-  #  <br/>
-  #  In past work, I was as Senior Backend Developer at [QED](http://qed.software/), developing genericized platform tools and architecture
-  #  for custom instantiation in business and data management contexts. [Since 2022](https://www.linkedin.com/posts/link-alliance_innovation-safety-cityraillink-activity-7057493881868750848-1pwn/?originalSubdomain=nz)
-  #  QED has been creating custom software for New Zealand's 
-  #  ["largest transport infrastructure project ever"](https://www.cityraillink.co.nz/#:~:text=Introducing%20the%20CRL&text=The%20%245.493%20billion%20project%20is,Station%20on%20the%20Western%20Line.).
-  #  In other work placements, I joined the [Hyper-K](http://https://www-sk.icrr.u-tokyo.ac.jp/en/hk/) 
-  #  neutrino detecting efforts&mdash;the successor to the 2015 Nobel Prize winner 
-  #  Super-K&mdash;at Canada's premier accelerator lab, 
-  #  [TRIUMF](https://www.triumf.ca); researched galactic cloud astrophysics via simulation at McMaster University with [James Wadsley's group](https://physics.mcmaster.ca/~wadsley/); 
-  #  and worked on an anomaly detection ML model at Canada's Communications Security Establishment. I am also an extended volunteer for [Climate Change AI](https://www.climatechange.ai/).  
-  #  <br/>
   
   Outside academic and professional pursuits, I love hosting and making food for friends and family; taking my Olympus OM-1 outdoors for some
   film shooting; and masochistically running Linux on my PC.  
-  
-  #  <br/>
-  #  What I like to do: __ML, Simulations, HPC, NLP, Graph Networks, Shelling, DevOps, API/Backend development, $$\LaTeX$$, Git__  
-  #  How I like to do it: __pandas, scipy, gymnasium, scikit, tf/pytorch, xarray, jax, seaborn, huggingface, pymc, langchain__  
 
 # Projects Section
 projects_title: Misc. #(Use this to override about projects section title)
