@@ -93,12 +93,7 @@
 
       {%- if site.email -%}
         <p>
-          Gmail: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
-        </p>
-      {%- endif -%}
-      {%- if site.phone -%}
-        <p>
-          Phone: <b>{{ site.phone | escape }}</b>
+          <b>{{ site.email | escape }}</b>
         </p>
       {%- endif -%}
       {%- if site.website -%}

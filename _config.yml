@@ -37,11 +37,9 @@ about_content: | # this will include new lines to allow paragraphs
   My concern bends towards nearer-term harms (dis-/misinformation, malicious actors, 
   socioeconomic disparities and power concentration, etc.) vs. catastrophic x-risk scenarios 
   (though I don't rate all x-risk events as sufficiently ignorable).
-  
   <br/>
-  
-  I love hosting and making food for friends and family; taking my Olympus OM-1 outdoors for some
-  film photography; and masochistically running Linux on my PC.  
+
+  When I can, I enjoy taking my Olympus OM-1 along with me outdoors (see the reel below).  
 
 # Projects Section
 projects_title: Misc. #(Use this to override about projects section title)
@@ -57,9 +55,7 @@ more_title: Works & Publications #(Use this to override about more section title
 more_content: | # this will include new lines to allow paragraphs
   - M. Walters, R. Kaufmann, F. Neubürger, T. Kopinski, D. Marković, _The CRISTAL Method: Fast, reliable analytical problem-solving with pre-synthesized grounded world models_ (2025). [Read pdf](assets/cristal_benchmarking.pdf).
   - M. Walters, R. Kaufmann, J. Sefas, T. Kopinski. _Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-agent Study_ (2025). [Read pdf](assets/AV_risk_MW_etal_v1.pdf). 
-  - AI-safety paper reviews and other writings on my blog, [http://quarryblog.substack.com](http://quarryblog.substack.com).
-  - Volunteering with [AIGS](https://aigs.ca): Contributions to the weekly Toronto AI Safety Meetup, and various website improvement efforts.  
-  - [RiskRay](/assets/risk_ray_summary.pdf). Using ML to detect hips at risk of fracture. _Patent pending._
+  - [RiskRay](/assets/risk_ray_summary.pdf) (Patented). Using ML to detect hips at risk of fracture.
   - Traffic prediction Graph Neural Net. View the proof-of-concept [toy model](https://github.com/m-walters/traffic_graphnn_toy).
   - My MSc. thesis: _Machine learning topological defects of liquid crystals
   in two dimensions._ Available online on [UWSpace](http://hdl.handle.net/10012/14949) (2019).
