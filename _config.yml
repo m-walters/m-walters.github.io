@@ -20,35 +20,46 @@ about_title: About
 about_profile_image: "/assets/images/autumn-selfie.png"
 about_content: | # this will include new lines to allow paragraphs
   
-  Things that get me out of bed in the morning: Solving problems with math, science, and coding; Collaborating towards meaningful projects; Coffee.  
+  #  Things that get me out of bed in the morning: Solving problems with math, science, and coding; Collaborating towards meaningful projects; Coffee.  
+  #  <br/>
+  #  My current focus is on probabilistic agentic AI systems and safety applications.
+  #  In particular, experimenting with Active Inference and Variational Free Energy-directed learning structures&mdash;mathematical formulations
+  #  entwining concepts from physics first-principles with theories of intelligence.
+  #  I am also interested in probabilistic programming, Bayesian methods, and generative world modeling.
+  
+  I'm interested in next-gen agentic AI systems that incorporate robust world models into their architectures.
+  World models quantify an agent's uncertainty in its beliefs, provides transparency for us to view how
+  an agent models its world, and in turn allows for safer operations and better value convergence.
+  <br/>  
+  This is one of the technologies foundational to our architecture at the [GAIA Lab](https://www.gaia-lab.de/).
+  Our mission is to unify systems through [federated active inference](https://www.sciencedirect.com/science/article/pii/S0149763423004694), 
+  converging on ever-improving world models that are crafted with LLM-in-the-loop processes.
+  Ultimately, this compiled encyclopedic "Github of world models" bolsters a symbolic world representation
+  for improved and safer AI operations.
   <br/>
-  My current focus is on probabilistic agentic AI systems and safety applications. 
-  In particular, experimenting with Active Inference and Variational Free Energy-directed learning structures&mdash;mathematical formulations 
-  entwining concepts from physics first-principles with theories of intelligence. 
-  I am also interested in probabilistic programming, Bayesian methods, and generative world modeling.   
-  <br/>
-  My personal concern with AI-threat models bends towards nearer-term harms (misinformation, malicious actors, socioeconomic disparities, etc.) vs. catastrophic x-risk scenarios 
-  (though I don't rate such events as safely ignorable). 
-  I'm a recent alum from the SPAR research program, and am an active participant and volunteer in the [AI Governance & Safety Canada](https://aigs.ca) (AIGS) group, looking to ensure
-  positive outcomes for AI in Canada.  
-  <br/>
-  In past work, I was as Senior Backend Developer at [QED](http://qed.software/), developing genericized platform tools and architecture
-  for custom instantiation in business and data management contexts. [Since 2022](https://www.linkedin.com/posts/link-alliance_innovation-safety-cityraillink-activity-7057493881868750848-1pwn/?originalSubdomain=nz)
-  QED has been creating custom software for New Zealand's 
-  ["largest transport infrastructure project ever"](https://www.cityraillink.co.nz/#:~:text=Introducing%20the%20CRL&text=The%20%245.493%20billion%20project%20is,Station%20on%20the%20Western%20Line.).
-  In other work placements, I joined the [Hyper-K](http://https://www-sk.icrr.u-tokyo.ac.jp/en/hk/) 
-  neutrino detecting efforts&mdash;the successor to the 2015 Nobel Prize winner 
-  Super-K&mdash;at Canada's premier accelerator lab, 
-  [TRIUMF](https://www.triumf.ca); researched galactic cloud astrophysics via simulation at McMaster University with [James Wadsley's group](https://physics.mcmaster.ca/~wadsley/); 
-  and worked on an anomaly detection ML model at Canada's Communications Security Establishment. I am also an extended volunteer for [Climate Change AI](https://www.climatechange.ai/).  
-  <br/>
+  I also write about various AI subjects and my interests on my blog [Quarry](https://quarryblog.substack.com/).
+  Overall, I would say I'm a sober moderate regarding AI threat models.
+  My concern bends towards nearer-term harms (dis-/misinformation, malicious actors, 
+  socioeconomic disparities and power concentration, etc.) vs. catastrophic x-risk scenarios 
+  (though I don't rate x-risk events as safely ignorable). 
+  #  <br/>
+  #  In past work, I was as Senior Backend Developer at [QED](http://qed.software/), developing genericized platform tools and architecture
+  #  for custom instantiation in business and data management contexts. [Since 2022](https://www.linkedin.com/posts/link-alliance_innovation-safety-cityraillink-activity-7057493881868750848-1pwn/?originalSubdomain=nz)
+  #  QED has been creating custom software for New Zealand's 
+  #  ["largest transport infrastructure project ever"](https://www.cityraillink.co.nz/#:~:text=Introducing%20the%20CRL&text=The%20%245.493%20billion%20project%20is,Station%20on%20the%20Western%20Line.).
+  #  In other work placements, I joined the [Hyper-K](http://https://www-sk.icrr.u-tokyo.ac.jp/en/hk/) 
+  #  neutrino detecting efforts&mdash;the successor to the 2015 Nobel Prize winner 
+  #  Super-K&mdash;at Canada's premier accelerator lab, 
+  #  [TRIUMF](https://www.triumf.ca); researched galactic cloud astrophysics via simulation at McMaster University with [James Wadsley's group](https://physics.mcmaster.ca/~wadsley/); 
+  #  and worked on an anomaly detection ML model at Canada's Communications Security Establishment. I am also an extended volunteer for [Climate Change AI](https://www.climatechange.ai/).  
+  #  <br/>
+  
   Outside academic and professional pursuits, I love hosting and making food for friends and family; taking my Olympus OM-1 outdoors for some
-  film shooting (though my bank account would prefer I don't); Volunteering at [The Local Community Food Centre](https://thelocalcfc.org); 
-  and masochistically running Linux on my PC.  
-
-  <br/>
-  What I like to do: __ML, Simulations, HPC, NLP, Graph Networks, Shelling, DevOps, API/Backend development, $$\LaTeX$$, Git__  
-  How I like to do it: __pandas, scipy, gymnasium, scikit, tf/pytorch, xarray, jax, seaborn, huggingface, pymc, langchain__  
+  film shooting; and masochistically running Linux on my PC.  
+  
+  #  <br/>
+  #  What I like to do: __ML, Simulations, HPC, NLP, Graph Networks, Shelling, DevOps, API/Backend development, $$\LaTeX$$, Git__  
+  #  How I like to do it: __pandas, scipy, gymnasium, scikit, tf/pytorch, xarray, jax, seaborn, huggingface, pymc, langchain__  
 
 # Projects Section
 projects_title: Misc. #(Use this to override about projects section title)
