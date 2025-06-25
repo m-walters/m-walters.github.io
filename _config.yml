@@ -23,21 +23,24 @@ about_content: | # this will include new lines to allow paragraphs
   I'm interested in next-gen agentic AI systems that incorporate robust world models into their architectures.
   World models quantify an agent's uncertainty in its beliefs, provides transparency for us to view how
   an agent models its world, and in turn allows for safer operations and better value convergence.
-  <br/>  
+  <br/>
+  
   This is one of the technologies foundational to our architecture at the [GAIA Lab](https://www.gaia-lab.de/).
   Our mission is to unify systems through [federated active inference](https://www.sciencedirect.com/science/article/pii/S0149763423004694), 
   converging on ever-improving world models that are crafted with LLM-in-the-loop processes.
   Ultimately, this compiled encyclopedic "Github of world models" bolsters a symbolic world representation
   for improved and safer AI operations.
   <br/>
+  
   I also write about various AI subjects and my interests on my blog [Quarry](https://quarryblog.substack.com/).
   Overall, I would say I'm a sober moderate regarding AI threat models.
   My concern bends towards nearer-term harms (dis-/misinformation, malicious actors, 
   socioeconomic disparities and power concentration, etc.) vs. catastrophic x-risk scenarios 
-  (though I don't rate x-risk events as safely ignorable). 
+  (though I don't rate x-risk events as safely ignorable).
+  <br/>
   
-  Outside academic and professional pursuits, I love hosting and making food for friends and family; taking my Olympus OM-1 outdoors for some
-  film shooting; and masochistically running Linux on my PC.  
+  I love hosting and making food for friends and family; taking my Olympus OM-1 outdoors for some
+  film photography; and masochistically running Linux on my PC.  
 
 # Projects Section
 projects_title: Misc. #(Use this to override about projects section title)
